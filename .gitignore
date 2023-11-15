@@ -1,0 +1,8 @@
+target
+.idea
+.idea/httpRequests/*
+.env
+*.env
+*.log
+git.properties
+*.iml
